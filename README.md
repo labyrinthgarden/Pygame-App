@@ -1,3 +1,3 @@
 INSTALL DEPENDENCY
 
-pip install pygame
+<pre>pip install pygame</pre>
