@@ -1,3 +1,4 @@
-INSTALL DEPENDENCY
-
-<pre>pip install pygame</pre>
+# Pygame-App
+Install dependency
+```
+pip install pygame
